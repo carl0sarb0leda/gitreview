@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+img {
+  max-width: 100%;
+  vertical-align: top;
+}
+img#resp {
+  display: none; /*Hide the image*/
+}
+@media screen and (max-width: 768px){
+  img#resp {
+    display: block; /*Show the image*/
+  }
+  img {
+    display: none;
+  }
+}
