@@ -1,5 +1,5 @@
-*How can we avoid this problem?
+*When does this problem occur?
 
 *In which project version is most prominent?
 
-*Please give us an advice about this problem.
+*Please give us a small description about this problem.
