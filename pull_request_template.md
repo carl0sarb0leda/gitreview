@@ -1,6 +1,7 @@
-This new feature is in:
+#Small Description for New Pull Request
 
--[ ] Frontend
--[ ] Backend
+This new change is for:
+- [ ] Frontend
+- [ ] Backend
 
 Please add a small description:
